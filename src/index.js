@@ -3,7 +3,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'alertifyjs/build/css/alertify.min.css';
-import {BrowserRouter} from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css';
 import React from 'react';
 
@@ -11,8 +11,8 @@ import React from 'react';
 
 
 ReactDOM.render(
-  <React.StrictMode> 
-  <BrowserRouter><App /></BrowserRouter>
+  <React.StrictMode>
+    <BrowserRouter><App /></BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
