@@ -8,7 +8,7 @@ export default class Footer extends Component {
           <footer className="py-3 bg-info fixed-buttom ">
             <div className="container">
               <p className="m-0 text-center text-dark">
-                Copyright &copy; My Website 2021
+                Copyright &copy; Website 2021
               </p>
             </div>
           </footer>

@@ -7,7 +7,9 @@ export default class ProductList extends Component {
         return (
             <div>
                 <h3><Badge pill bg="info" text="secondary">
-                    {this.props.info.title}</Badge>{`  >  `}<Badge pill bg="secondary" text="info">{this.props.currentCategory}</Badge></h3>
+                    {this.props.info.title}</Badge>{` > `}
+                    <Badge pill bg="secondary" text="info">
+                    {this.props.currentCategory}</Badge></h3>
                 <Table bordered dark hover>
                     <thead>
                         <tr>
@@ -20,7 +22,7 @@ export default class ProductList extends Component {
                         </tr>
                     </thead>
                     <tbody>
-                        {this.props.products.map(product => (//props ile product map fonk. kullan
+                        {this.props.products.map(product => (
                             <tr key={product.id}>
                                 <th scope="row">{product.id}</th>
                                 <td>{product.productName}</td>

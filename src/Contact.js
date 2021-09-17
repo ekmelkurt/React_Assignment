@@ -46,5 +46,4 @@ function Contact(props) {
     </Fragment>
   );
 }
-
 export default Contact;

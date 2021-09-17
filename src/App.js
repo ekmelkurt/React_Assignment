@@ -13,7 +13,7 @@ import Contact from './Contact';
 
 export default class App extends Component {
   //state ile alınacak diziler
-  state = { currentCategory: "", products: [], cart: [] }
+  state = { currentCategory: " ", products: [], cart: [] }
   //fonksiyon ile category ismi state'i değiştirir
   changeCategory = (category) => {
     this.setState({ currentCategory: category.categoryName })

@@ -7,7 +7,6 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
-
   NavLink
 } from 'reactstrap';
 
@@ -24,7 +23,7 @@ export default class CartSummary extends React.Component {
               <DropdownItem key={cartItem.product.id}>
                 <Badge pill bg="success" text="dark" >{cartItem.quantity}</Badge>
                 {cartItem.product.productName}
-                <Badge pii bg="danger" text="dark"
+                <Badge pill bg="danger" text="dark"
                   onClick={() => this.props.removeFromCart(cartItem.product)}>X</Badge>
               </DropdownItem>
             ))

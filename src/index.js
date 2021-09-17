@@ -8,8 +8,6 @@ import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css';
 import React from 'react';
 
 
-
-
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter><App /></BrowserRouter>

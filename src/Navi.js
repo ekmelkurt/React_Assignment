@@ -48,7 +48,7 @@ export default class Navi extends React.Component {
                 value={this.props.language}
                 onChange={e => this.props.handleSetLanguage(e.target.value)}>
                 <option value="English">En</option>
-                <option value="Türkçe">Tr</option>
+                <option value="Turkish">Tr</option>
               </select>
             </div>
           </Navbar>

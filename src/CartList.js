@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Table, Button } from 'reactstrap'
 
+
 export default class CartList extends Component {
     renderCart() {
         return (
