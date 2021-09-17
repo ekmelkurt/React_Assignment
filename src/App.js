@@ -14,7 +14,7 @@ import Contact from './Contact';
 export default class App extends Component {
   //state ile alınacak diziler
   state = { currentCategory: "", products: [], cart: [] }
-  //fonksiyon ile category ismi state'yi değiştirir
+  //fonksiyon ile category ismi state'i değiştirir
   changeCategory = (category) => {
     this.setState({ currentCategory: category.categoryName })
     this.getProducts(category.id)
