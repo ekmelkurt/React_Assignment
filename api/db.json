@@ -1,0 +1,654 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Superb",
+      "fuelType": "Benzin",
+      "unitPrice": 400,
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Arteon",
+      "fuelType": "Benzin",
+      "unitPrice": 200,
+      "unitsInStock": 17
+    },
+      {
+      "id": 3,
+      "categoryId": 6,
+      "productName": "Meriva",
+      "fuelType": "Benzin",
+      "unitPrice": 120,
+      "unitsInStock": 90
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Passat",
+      "fuelType": "Benzin",
+      "unitPrice": 220,
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Octavia",
+      "fuelType": "Dizel",
+      "unitPrice": 210,
+      "unitsInStock": 65
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Fabia",
+      "fuelType": "Dizel",
+      "unitPrice": 250,
+      "unitsInStock": 120
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "CLA200",
+      "fuelType": "Benzin",
+      "unitPrice": 300,
+      "unitsInStock": 15
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Yeti",
+      "fuelType": "Dizel",
+      "unitPrice": 400,
+      "unitsInStock": 100
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Astra",
+      "fuelType": "Dizel",
+      "unitPrice": 950,
+      "unitsInStock": 29
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "118i",
+      "fuelType": "Benzin",
+      "unitPrice": 310,
+      "unitsInStock": 31
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Megane",
+      "fuelType": "Dizel",
+      "unitPrice": 210,
+      "unitsInStock": 22
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Talisman",
+      "fuelType": "Benzin",
+      "unitPrice": 380,
+      "unitsInStock": 86
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "535i",
+      "fuelType": "Benzin",
+      "unitPrice": 600,
+      "unitsInStock": 24
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "productName": "GLK220",
+      "fuelType": "Dizel",
+      "unitPrice": 235,
+      "unitsInStock": 35
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Rapid",
+      "fuelType": "Benzin",
+      "unitPrice": 155,
+      "unitsInStock": 39
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Avensis",
+      "fuelType": "Dizel",
+      "unitPrice": 175,
+      "unitsInStock": 29
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Corsa",
+      "fuelType": "Dizel",
+      "unitPrice": 390,
+      "unitsInStock": 23
+    },
+    {
+      "id": 18,
+      "categoryId": 8,
+      "productName": "320i",
+      "fuelType": "Benzin",
+      "unitPrice": 650,
+      "unitsInStock": 42
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "Corolla",
+      "fuelType": "Dizel",
+      "unitPrice": 920,
+      "unitsInStock": 25
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "Yaris",
+      "fuelType": "Dizel",
+      "unitPrice": 180,
+      "unitsInStock": 40
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "Verso",
+      "fuelType": "Benzin",
+      "unitPrice": 100,
+      "unitsInStock": 3
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "Focus",
+      "fuelType": "Dizel",
+      "unitPrice": 210,
+      "unitsInStock": 104
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Mondeo",
+      "fuelType": "Dizel",
+      "unitPrice": 100,
+      "unitsInStock": 61
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Jetta",
+      "fuelType": "Dizel",
+      "unitPrice": 450,
+      "unitsInStock": 20
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "Auris",
+      "fuelType": "Benzin",
+      "unitPrice": 140,
+      "unitsInStock": 76
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Supra",
+      "fuelType": "Benzin",
+      "unitPrice": 310,
+      "unitsInStock": 15
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "Hilux",
+      "fuelType": "Dizel",
+      "unitPrice": 430,
+      "unitsInStock": 49
+    },
+    {
+      "id": 28,
+      "categoryId": 7,
+      "productName": "C350",
+      "fuelType": "Dizel",
+      "unitPrice": 450,
+      "unitsInStock": 26
+    },
+    {
+      "id": 29,
+      "categoryId": 6,
+      "productName": "İnsignia",
+      "fuelType": "Dizel",
+      "unitPrice": 120,
+      "unitsInStock": 45
+    },
+    {
+      "id": 30,
+      "categoryId": 8,
+      "productName": "318d",
+      "fuelType": "Dizel",
+      "unitPrice": 250,
+      "unitsInStock": 10
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "Clio",
+      "fuelType": "Dizel",
+      "unitPrice": 125,
+      "unitsInStock": 15
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "Symbol",
+      "fuelType": "Dizel",
+      "unitPrice": 320,
+      "unitsInStock": 9
+    },
+    {
+      "id": 33,
+      "categoryId": 4,
+      "productName": "Captur",
+      "fuelType": "Dizel",
+      "unitPrice": 250,
+      "unitsInStock": 112
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": "Golf",
+      "fuelType": "Benzin",
+      "unitPrice": 140,
+      "unitsInStock": 111
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "Polo",
+      "fuelType": "Dizel",
+      "unitPrice": 180,
+      "unitsInStock": 20
+    },
+    {
+      "id": 36,
+      "categoryId": 8,
+      "productName": "530i",
+      "fuelType": "Benzin",
+      "unitPrice": 190,
+      "unitsInStock": 112
+    },
+    {
+      "id": 37,
+      "categoryId": 8,
+      "productName": "116i",
+      "fuelType": "Benzin",
+      "unitPrice": 260,
+      "unitsInStock": 11
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "CC",
+      "fuelType": "Dizel",
+      "unitPrice": 265,
+      "unitsInStock": 17
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "Tiguan",
+      "fuelType": "Dizel",
+      "unitPrice": 180,
+      "unitsInStock": 69
+    },
+    {
+      "id": 40,
+      "categoryId": 8,
+      "productName": "M550d",
+      "fuelType": "Dizel",
+      "unitPrice": 180,
+      "unitsInStock": 123
+    },
+    {
+      "id": 41,
+      "categoryId": 8,
+      "productName": "X6",
+      "fuelType": "Dizel",
+      "unitPrice": 900,
+      "unitsInStock": 85
+    },
+    {
+      "id": 42,
+      "categoryId": 5,
+      "productName": "Fiesta",
+      "fuelType": "Dizel",
+      "unitPrice": 140,
+      "unitsInStock": 26
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "Taureg",
+      "fuelType": "Dizel",
+      "unitPrice": 460,
+      "unitsInStock": 17
+    },
+    {
+      "id": 44,
+      "categoryId": 2,
+      "productName": "Kodiaq",
+      "fuelType": "Dizel",
+      "unitPrice": 145,
+      "unitsInStock": 27
+    },
+    {
+      "id": 45,
+      "categoryId": 8,
+      "productName": "X1",
+      "fuelType": "Dizel",
+      "unitPrice": 105,
+      "unitsInStock": 5
+    },
+    {
+      "id": 46,
+      "categoryId": 8,
+      "productName": "X3",
+      "fuelType": "Dizel",
+      "unitPrice": 120,
+      "unitsInStock": 95
+    },
+    {
+      "id": 47,
+      "categoryId": 3,
+      "productName": "Rav4",
+      "fuelType": "Dizel",
+      "unitPrice": 150,
+      "unitsInStock": 36
+    },
+    {
+      "id": 48,
+      "categoryId": 3,
+      "productName": "Land Cruiser",
+      "fuelType": "Dizel",
+      "unitPrice": 125,
+      "unitsInStock": 15
+    },
+    {
+      "id": 49,
+      "categoryId": 3,
+      "productName": "GT 86",
+      "fuelType": "Benzin",
+      "unitPrice": 200,
+      "unitsInStock": 10
+    },
+    {
+      "id": 50,
+      "categoryId": 3,
+      "productName": "C-HR",
+      "fuelType": "Dizel",
+      "unitPrice": 165,
+      "unitsInStock": 65
+    },
+    {
+      "id": 51,
+      "categoryId": 7,
+      "productName": "A180",
+      "fuelType": "Benzin",
+      "unitPrice": 530,
+      "unitsInStock": 20
+    },
+    {
+      "id": 52,
+      "categoryId": 5,
+      "productName": "Kuga",
+      "fuelType": "Dizel",
+      "unitPrice": 700,
+      "unitsInStock": 38
+    },
+    {
+      "id": 53,
+      "categoryId": 6,
+      "productName": "Mokka",
+      "fuelType": "Dizel",
+      "unitPrice": 320,
+      "unitsInStock": 20
+    },
+    {
+      "id": 54,
+      "categoryId": 6,
+      "productName": "Combo",
+      "fuelType": "Dizel",
+      "unitPrice": 745,
+      "unitsInStock": 21
+    },
+    {
+      "id": 55,
+      "categoryId": 6,
+      "productName": "Vectra",
+      "fuelType": "Benzin",
+      "unitPrice": 240,
+      "unitsInStock": 115
+    },
+    {
+      "id": 56,
+      "categoryId": 5,
+      "productName": "Ranger",
+      "fuelType": "Dizel",
+      "unitPrice": 380,
+      "unitsInStock": 21
+    },
+    {
+      "id": 57,
+      "categoryId": 5,
+      "productName": "Courier",
+      "fuelType": "Dizel",
+      "unitPrice": 195,
+      "unitsInStock": 36
+    },
+    {
+      "id": 58,
+      "categoryId": 8,
+      "productName": "320d",
+      "fuelType": "Dizel",
+      "unitPrice": 135,
+      "unitsInStock": 62
+    },
+    {
+      "id": 59,
+      "categoryId": 4,
+      "productName": "Kadjar",
+      "fuelType": "Dizel",
+      "unitPrice": 550,
+      "unitsInStock": 79
+    },
+    {
+      "id": 60,
+      "categoryId": 4,
+      "productName": "Fluence",
+      "fuelType": "Dizel",
+      "unitPrice": 340,
+      "unitsInStock": 19
+    },
+    {
+      "id": 61,
+      "categoryId": 2,
+      "productName": "Kamiq",
+      "fuelType": "Dizel",
+      "unitPrice": 285,
+      "unitsInStock": 113
+    },
+    {
+      "id": 62,
+      "categoryId": 3,
+      "productName": "Camry",
+      "fuelType": "Benzin",
+      "unitPrice": 430,
+      "unitsInStock": 17
+    },
+    {
+      "id": 63,
+      "categoryId": 2,
+      "productName": "Scala",
+      "fuelType": "Dizel",
+      "unitPrice": 450,
+      "unitsInStock": 24
+    },
+    {
+      "id": 64,
+      "categoryId": 5,
+      "productName": "Connect",
+      "fuelType": "Dizel",
+      "unitPrice": 305,
+      "unitsInStock": 22
+    },
+    {
+      "id": 65,
+      "categoryId": 2,
+      "productName": "Karoq",
+      "fuelType": "Dizel",
+      "unitPrice": 205,
+      "unitsInStock": 76
+    },
+    {
+      "id": 66,
+      "categoryId": 1,
+      "productName": "Transpoeter",
+      "fuelType": "Dizel",
+      "unitPrice": 170,
+      "unitsInStock": 4
+    },
+    {
+      "id": 67,
+      "categoryId": 1,
+      "productName": "Amarok",
+      "fuelType": "Dizel",
+      "unitPrice": 140,
+      "unitsInStock": 52
+    },
+    {
+      "id": 68,
+      "categoryId": 3,
+      "productName": "Prius",
+      "fuelType": "Dizel",
+      "unitPrice": 125,
+      "unitsInStock": 6
+    },
+    {
+      "id": 69,
+      "categoryId": 4,
+      "productName": "Koleos",
+      "fuelType": "Dizel",
+      "unitPrice": 360,
+      "unitsInStock": 26
+    },
+    {
+      "id": 70,
+      "categoryId": 1,
+      "productName": "Caddy",
+      "fuelType": "Dizel",
+      "unitPrice": 150,
+      "unitsInStock": 15
+    },
+    {
+      "id": 71,
+      "categoryId": 4,
+      "productName": "Taliant",
+      "fuelType": "Dizel",
+      "unitPrice": 215,
+      "unitsInStock": 26
+    },
+    {
+      "id": 72,
+      "categoryId": 4,
+      "productName": "Kangoo",
+      "fuelType": "Dizel",
+      "unitPrice": 340,
+      "unitsInStock": 14
+    },
+    {
+      "id": 73,
+      "categoryId": 8,
+      "productName": "740d",
+      "fuelType": "Dizel",
+      "unitPrice": 150,
+      "unitsInStock": 101
+    },
+    {
+      "id": 74,
+      "categoryId": 7,
+      "productName": "C180",
+      "fuelType": "Benzin",
+      "unitPrice": 100,
+      "unitsInStock": 4
+    },
+    {
+      "id": 75,
+      "categoryId": 1,
+      "productName": "Caravelle",
+      "fuelType": "Dizel",
+      "unitPrice": 175,
+      "unitsInStock": 125
+    },
+    {
+      "id": 76,
+      "categoryId": 1,
+      "productName": "T-Roc",
+      "fuelType": "Dizel",
+      "unitPrice": 180,
+      "unitsInStock": 57
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Volkswagen",
+      "seoUrl": "volkswagen"
+    },
+    {
+      "id": 2,
+      "categoryName": "Skoda",
+      "seoUrl": "skoda"
+    },
+    {
+      "id": 3,
+      "categoryName": "Toyota",
+      "seoUrl": "toyota"
+    },
+    {
+      "id": 4,
+      "categoryName": "Renault",
+      "seoUrl": "renault"
+    },
+    {
+      "id": 5,
+      "categoryName": "Ford",
+      "seoUrl": "ford"
+    },
+    {
+      "id": 6,
+      "categoryName": "Opel",
+      "seoUrl": "opel"
+    },
+    {
+      "id": 7,
+      "categoryName": "Mercedes",
+      "seoUrl": "mercedes"
+    },
+    {
+      "id": 8,
+      "categoryName": "BMW",
+      "seoUrl": "bmw"
+    }
+  ]
+}
